@@ -1,1 +1,1 @@
-SELECT SUM(endDate) FROM experiences
+SELECT SUM(endDate) FROM experiences GROUP BY endDate
