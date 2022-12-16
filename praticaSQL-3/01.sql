@@ -1,0 +1,1 @@
+SELECT SUM(endDate) FROM experiences
